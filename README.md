@@ -106,8 +106,7 @@ Feel free to fork the project and submit pull requests to improve functionality,
 
 ## 📄 License
 
-<<<<<<< HEAD
-This project is open-source and available under the [MIT License](LICENSE) (or specify your own license if applicable).
+
+This project is open-source and available under the [MIT License](LICENSE).
 =======
 This project is open-source and available under the [MIT License](LICENSE)
->>>>>>> f1f21ceca83424899f0b711141febe6f1c8b6bd9
